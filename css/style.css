@@ -445,23 +445,23 @@ a.active {
 }
 
 .background2 {
-  background: url(../images/background/01.jpg) no-repeat center fixed;
+  background: url(images/background/01.jpg) no-repeat center fixed;
 }
 
 .background3 {
-  background-image: url(../images/slider/04.jpg);
+  background-image: url(images/slider/04.jpg);
 }
 
 .background4 {
-  background-image: url(../images/slider/05.jpg);
+  background-image: url(images/slider/05.jpg);
 }
 
 .background5 {
-  background-image: url(../images/slider/06.jpg);
+  background-image: url(images/slider/06.jpg);
 }
 
 .background6 {
-  background-image: url(../images/footer.png);
+  background-image: url(images/footer.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -469,37 +469,37 @@ a.active {
 }
 
 .background7 {
-  background-image: url(../images/background/02.jpg);
+  background-image: url(images/background/02.jpg);
 }
 
 .background8 {
-  background-image: url(../images/background/03.png);
+  background-image: url(images/background/03.png);
 }
 
 .background9 {
-  background-image: url(../images/background/04.jpg);
+  background-image: url(images/background/04.jpg);
   background-size: cover;
   background-position: center center;
 }
 
 .background10 {
-  background-image: url(../images/slider/07.jpg);
+  background-image: url(images/slider/07.jpg);
 }
 
 .background11 {
-  background-image: url(../images/slider/08.jpg);
+  background-image: url(images/slider/08.jpg);
 }
 
 .background12 {
-  background-image: url(../images/slider/09.jpg);
+  background-image: url(images/slider/09.jpg);
 }
 
 .background13 {
-  background-image: url(/images/slider/10.JPG);
+  background-image: urlimages/slider/10.JPG);
 }
 
 .background14 {
-  background-image: url(../images/slider/11.jpg);
+  background-image: url(images/slider/11.jpg);
 }
 
 /*====================================================================
